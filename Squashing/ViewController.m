@@ -20,6 +20,7 @@
     NSLog(@"string:%@",str);
     NSString *string = @"dksfm,sdf";
     NSString *string2 = @"dksfm,sdf";
+    NSLog( @"strinhjjhda:%@",string);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
