@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSString *str=@"lkdmd";
     NSLog(@"string:%@",str);
+    NSString *string = @"dksfm,sdf";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
