@@ -18,7 +18,13 @@
     [super viewDidLoad];
     NSString *string = @"sekhar";
     NSLog(@"string:%@",string);
-    // Do any additional setup after loading the view, typically from a nib.
+    //[super viewDidLoad];
+    NSString *string1 = @"sekhar";
+    NSLog(@"string:%@",string1);
+    NSString *string4 = @"sekhar";
+    NSLog(@"string:%@",string4);
+
+   // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
