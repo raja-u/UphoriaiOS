@@ -18,6 +18,9 @@
     [super viewDidLoad];
     NSString *string = @"sekhar";
     NSLog(@"string:%@",string);
+    //[super viewDidLoad];
+    NSString *string1 = @"sekhar";
+    NSLog(@"string:%@",string1);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
